@@ -217,7 +217,10 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
+<<<<<<< HEAD
   minima (~> 2.0)
+=======
+>>>>>>> de1837296ede2c7cd5058331e60b64e23fd01004
   tzinfo-data
 
 BUNDLED WITH

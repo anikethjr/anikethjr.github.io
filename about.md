@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 layout: default
+=======
+layout: page
+>>>>>>> de1837296ede2c7cd5058331e60b64e23fd01004
 title: About
 permalink: /about/
 ---
