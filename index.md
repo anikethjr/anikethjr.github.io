@@ -2,9 +2,27 @@
 layout: default
 ---
 
-<img src="Photo.png" align="right" alt="Photo" style="width: 500px;"/>
+<img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;"/>
 
-I am a fourth year computer science undergradute student at the Birla Institute of Technology and Science, Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me.<br><br><br>
+I am a final year computer science undergradute student at the Birla Institute of Technology and Science(BITS), Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography and gaming.
+
+# [](#education)Education
+*   2014 - 2018   
+B.E.(Hons) Computer Science from BITS Pilani
+
+*   2012 - 2014   
+Senior secondary education from   
+Sri Kumaran Children's Home - CBSE, Bangalore
+
+*   2002 - 2012   
+Primary and secondary education from    
+Sri Kumaran Public School - ICSE, Bangalore
+
+# [](#awards)Awards and Honours
+*   DAAD WISE 2017 Scholar
+*   Merit Scholarship from BITS Pilani for four consecutive years
+*   TCS IT Wiz 2013 Bangalore Runner-Up
+*   IAYP Bronze Award
 
 # [](#currentprojects)Current Projects
 
