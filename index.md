@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="Photo.JPG" align="right" alt="Photo" style="width: 500px;"/>
+<img src="Photo.png" align="right" alt="Photo" style="width: 500px;"/>
 
 I am a fourth year computer science undergradute student at the Birla Institute of Technology and Science, Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me.<br><br><br>
 
