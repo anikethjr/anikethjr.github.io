@@ -4,7 +4,7 @@ layout: default
 
 <img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;"/>
 
-I am a final year computer science undergradute student at the Birla Institute of Technology and Science(BITS), Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography and gaming.
+I am a final year computer science undergradute student at the Birla Institute of Technology and Science(BITS), Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#education)Education
 *   2014 - 2018   
@@ -32,10 +32,6 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#previousprojects)Previous Projects
 
-*   Recently, I built a framework which implements L-Systems using OpenGL. The code can be found at [https://github.com/anikethjr/LSystems](https://github.com/anikethjr/LSystems).
-
-*   To experiment with 3D modelling using OpenGL and Blender, I built a children's playground using them. The code for this project is at [https://github.com/anikethjr/Playground-OpenGL](https://github.com/anikethjr/Playground-OpenGL).
-
 *   I built a C++ based framework to build artificial neural networks. It can be found at [https://github.com/anikethjr/NeuralNets](https://github.com/anikethjr/NeuralNets).
 
 *   An FP Tree implementation which I coded using C++ can be found at [https://github.com/anikethjr/FPTree](https://github.com/anikethjr/FPTree).
@@ -43,6 +39,14 @@ Sri Kumaran Public School - ICSE, Bangalore
 *   TeChess is a chess bot which I built in early 2017. It makes use of PVS search and its code can be found at [https://github.com/anikethjr/TeChess](https://github.com/anikethjr/TeChess).
 
 *   I coded the ID3, Reduced Error Pruning, Random Forests and AdaBoost algorithms in C++. The code is at [https://github.com/anikethjr/decision-tree](https://github.com/anikethjr/decision-tree).
+
+*   Two cloth simulation models, one which uses the spring mass model and the other which uses an internal energy model, implemented in C++ using OpenGL are at [https://github.com/anikethjr/Cloth-Simulation](https://github.com/anikethjr/Cloth-Simulation).
+
+*   An interactive application to draw Bezier Curves and generate surfaces of revolution can be found at [https://github.com/anikethjr/BezierCurves](https://github.com/anikethjr/BezierCurves). It was implemented in C++ and uses OpenGL.
+
+*   Recently, I built a framework which implements L-Systems using OpenGL. The code can be found at [https://github.com/anikethjr/LSystems](https://github.com/anikethjr/LSystems).
+
+*   To experiment with 3D modelling using OpenGL and Blender, I built a children's playground using them. The code for this project is at [https://github.com/anikethjr/Playground-OpenGL](https://github.com/anikethjr/Playground-OpenGL).
 
 *   A Python implementation of the SVD and CUR algorithms can be found at [https://github.com/anikethjr/SVD_CUR](https://github.com/anikethjr/SVD_CUR).
 
