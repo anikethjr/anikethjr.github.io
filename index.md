@@ -26,7 +26,7 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#currentprojects)Current Projects
 
-*   I am working on recognizing named entities in texts written in Indian languages. My work on Named Entity Recognition(NER) in Telugu texts can be found at [https://github.com/anikethjr/NER_Telugu](https://github.com/anikethjr/NER_Telugu).
+*   I am working on recognizing named entities in texts written in Indian languages. My work on Named Entity Recognition(NER) in Telugu texts using an LSTM-CRF classifier can be found at [https://github.com/anikethjr/NER_Telugu](https://github.com/anikethjr/NER_Telugu).
 
 *   DeFacto is an open source fact validation framework developed by the Smart Data Analytics Research Group. We are currently working on the new version of the framework which will include many new features such as visual trust, predicate extraction using distant supervision, etc.
 
