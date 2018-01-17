@@ -7,6 +7,7 @@ layout: default
 I am a final year computer science undergradute student at the Birla Institute of Technology and Science(BITS), Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#education)Education
+
 *   2014 - 2018   
 B.E.(Hons) Computer Science from BITS Pilani
 
@@ -19,12 +20,19 @@ Primary and secondary education from
 Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#awards)Awards and Honours
+
 *   DAAD WISE 2017 Scholar
 *   Merit Scholarship from BITS Pilani for four consecutive years
 *   TCS IT Wiz 2013 Bangalore Runner-Up
 *   IAYP Bronze Award
 
+# [](#publications)Publications
+
+*	Diego Esteves, Anisa Rula, **Aniketh J. Reddy**, and Jens Lehmann. 2018. Towards Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. ACM Journal of Data and Information Quality.
+
 # [](#currentprojects)Current Projects
+
+*	Understanding attentional mechanisms in the human brain by analyzing fMRI data using Machine Learning.
 
 *   I am working on recognizing named entities in texts written in Indian languages. My work on Named Entity Recognition(NER) in Telugu texts using an LSTM-CRF classifier can be found at [https://github.com/anikethjr/NER_Telugu](https://github.com/anikethjr/NER_Telugu).
 
