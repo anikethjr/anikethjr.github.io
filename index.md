@@ -4,14 +4,7 @@ layout: default
 
 <img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;"/>
 
-I am a final year computer science undergradute student 
-at the Birla Institute of Technology and Science(BITS), Pilani, 
-Hyderabad Campus, India. My main areas of focus are Machine Learning, 
-Artificial Intelligence and Information Retrieval. 
-Applications of these fields in medicine, 
-natural language processing and vision are of particular interest to me. 
-In my spare time, I engage in quizzing, photography, gaming, 
-playing badminton and running.
+I am a final year computer science undergradute student at the Birla Institute of Technology and Science(BITS), Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#education)Education
 
