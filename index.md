@@ -28,7 +28,7 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#publications)Publications
 
-*	Diego Esteves, Anisa Rula, **Aniketh J. Reddy**, and Jens Lehmann. 2018. Towards Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. ACM Journal of Data and Information Quality.
+*	Diego Esteves, Anisa Rula, **Aniketh J. Reddy** and Jens Lehmann. 2018. Towards Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. ACM Journal of Data and Information Quality.
 
 # [](#currentprojects)Current Projects
 
