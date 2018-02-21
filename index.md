@@ -28,7 +28,9 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#publications)Publications
 
-*	Diego Esteves, Anisa Rula, **Aniketh J. Reddy** and Jens Lehmann. 2018. Towards Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. ACM Journal of Data and Information Quality.
+*	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. DOI: [https://doi.org/10.1145/3177873](https://doi.org/10.1145/3177873).
+
+* **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. 4th Workshop on Indian Language Data: Resources and Evaluation (WILDRE4), organized under LREC 2018.
 
 # [](#currentprojects)Current Projects
 
