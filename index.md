@@ -30,17 +30,17 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 *	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. DOI: [https://doi.org/10.1145/3177873](https://doi.org/10.1145/3177873).
 
-* **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4, organized under LREC 2018.
+* **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4, organized under LREC 2018. [https://github.com/anikethjr/NER_Telugu]([Code])
 
 # [](#currentprojects)Current Projects
 
 *	Understanding attentional mechanisms in the human brain by analyzing fMRI data using Machine Learning.
 
-*   I am working on recognizing named entities in texts written in Indian languages. My work on Named Entity Recognition(NER) in Telugu texts using an LSTM-CRF classifier can be found at [https://github.com/anikethjr/NER_Telugu](https://github.com/anikethjr/NER_Telugu).
-
 *   DeFacto is an open source fact validation framework developed by the Smart Data Analytics Research Group. We are currently working on the new version of the framework which will include many new features such as visual trust, predicate extraction using distant supervision, etc.
 
 # [](#previousprojects)Previous Projects
+
+*   I worked on the recognition of named entities in texts written in Indian languages. My work on Named Entity Recognition (NER) in Telugu texts using an LSTM-CRF classifier can be found at [https://github.com/anikethjr/NER_Telugu](https://github.com/anikethjr/NER_Telugu).
 
 *   I built a C++ based framework to build artificial neural networks. It can be found at [https://github.com/anikethjr/NeuralNets](https://github.com/anikethjr/NeuralNets).
 
