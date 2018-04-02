@@ -30,7 +30,7 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 *	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. DOI: [https://doi.org/10.1145/3177873](https://doi.org/10.1145/3177873).
 
-* **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4, organized under LREC 2018. [https://github.com/anikethjr/NER_Telugu]([Code])
+* **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4, organized under LREC 2018. [[Code]](https://github.com/anikethjr/NER_Telugu)
 
 # [](#currentprojects)Current Projects
 
