@@ -4,12 +4,14 @@ layout: default
 
 <img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;"/>
 
-I am a final year computer science undergradute student at the Birla Institute of Technology and Science(BITS), Pilani, Hyderabad Campus, India. My main areas of focus are Machine Learning, Artificial Intelligence and Information Retrieval. Applications of these fields in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
+I am a graduate student at Carnegie Mellon University's Machine Learning Department. Applications of machine learning in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#education)Education
+*   2018 - 2019
+M.S. Machine Learning from Carnegie Mellon University
 
 *   2014 - 2018   
-B.E.(Hons) Computer Science from BITS Pilani
+B.E.(Hons) Computer Science from BITS Pilani, Hyderabad
 
 *   2012 - 2014   
 Senior secondary education from   
@@ -21,6 +23,8 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#awards)Awards and Honours
 
+*   Gold Medalist, BITS Pilani, Hyderabad
+*   Best All-Rounder Award, Prof. V.S. Rao Foundation, BITS Pilani, Hyderabad
 *   DAAD WISE 2017 Scholar
 *   Merit Scholarship from BITS Pilani for four consecutive years
 *   TCS IT Wiz 2013 Bangalore Runner-Up
@@ -32,13 +36,15 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 * **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4, organized under LREC 2018. [[Paper]](http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html) [[Code]](https://github.com/anikethjr/NER_Telugu)
 
-# [](#currentprojects)Current Projects
+# [](#projects)Projects
 
-*	Understanding attentional mechanisms in the human brain by analyzing fMRI data using Machine Learning.
+*   Utilized functional magnetic resonance imaging (fMRI) and machine learning techniques to identify which brain regions are involved in attention modulation. I was guided by Dr. Sridharan Devarajan at the Cognition Lab, Indian Institute of Science, Bangalore, India.
 
-*   DeFacto is an open source fact validation framework developed by the Smart Data Analytics Research Group. We are currently working on the new version of the framework which will include many new features such as visual trust, predicate extraction using distant supervision, etc.
+*   Developed an automated fact verification system called DeFactoNLP which could not only assess the veracity of a claim but also retrieve supporting evidences from Wikipedia.
 
-# [](#previousprojects)Previous Projects
+*   Built a state-of-the-art system which could automatically ascertain the trustworthiness of a website.
+
+*   Participated in the development and benchmarking of DeFacto, a triple verification framework.
 
 *   I worked on the recognition of named entities in texts written in Indian languages. My work on Named Entity Recognition (NER) in Telugu texts using an LSTM-CRF classifier can be found at [https://github.com/anikethjr/NER_Telugu](https://github.com/anikethjr/NER_Telugu).
 
