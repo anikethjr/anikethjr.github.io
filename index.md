@@ -4,7 +4,7 @@ layout: default
 
 <img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;"/>
 
-I am a graduate student at Carnegie Mellon University's Machine Learning Department. Applications of machine learning in medicine, natural language processing and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
+I am a graduate student at Carnegie Mellon University's Machine Learning Department. Applications of machine learning in medicine, natural language processing and neuroscience are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#education)Education
 *   2018 - 2019
