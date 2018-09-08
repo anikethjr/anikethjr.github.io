@@ -36,9 +36,10 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 * Diego Esteves, **Aniketh Janardhan Reddy**, Piyush Chawla, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00494) [[Code]](https://github.com/DeFacto/WebCredibility)
 
-*	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. [[Paper]](https://doi.org/10.1145/3177873)
 
 * **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4 at LREC 2018. [[Paper]](http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html) [[Code]](https://github.com/anikethjr/NER_Telugu)
+
+*	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. [[Paper]](https://doi.org/10.1145/3177873)
 
 # [](#projects)Projects
 
