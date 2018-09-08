@@ -4,7 +4,7 @@ layout: default
 
 <img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;"/>
 
-I am a graduate student at Carnegie Mellon University's Machine Learning Department. Applications of machine learning in medicine, natural language processing, neuroscience and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
+I am a master's student at Carnegie Mellon University's Machine Learning Department. Applications of machine learning in medicine, natural language processing, neuroscience and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#education)Education
 *   2018 - 2019
@@ -32,17 +32,21 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#publications)Publications
 
+* **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00509) [[Code]](https://github.com/DeFacto/DeFactoNLP)
+
+* Diego Esteves, **Aniketh Janardhan Reddy**, Piyush Chawla, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00494) [[Code]](https://github.com/DeFacto/WebCredibility}
+
 *	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. [[Paper]](https://doi.org/10.1145/3177873)
 
-* **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4, organized under LREC 2018. [[Paper]](http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html) [[Code]](https://github.com/anikethjr/NER_Telugu)
+* **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4 at LREC 2018. [[Paper]](http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html) [[Code]](https://github.com/anikethjr/NER_Telugu)
 
 # [](#projects)Projects
 
 *   Utilized functional magnetic resonance imaging (fMRI) and machine learning techniques to identify which brain regions are involved in attention modulation. I was guided by Dr. Sridharan Devarajan at the Cognition Lab, Indian Institute of Science, Bangalore, India.
 
-*   Developed an automated fact verification system called DeFactoNLP which could not only assess the veracity of a claim but also retrieve supporting evidences from Wikipedia.
+*   Developed an automated fact verification system called DeFactoNLP which could not only assess the veracity of a claim but also retrieve supporting evidences from Wikipedia - [https://github.com/DeFacto/DeFactoNLP](https://github.com/DeFacto/DeFactoNLP)
 
-*   Built a state-of-the-art system which could automatically ascertain the trustworthiness of a website.
+*   Built a system which could automatically ascertain the trustworthiness of a website - [https://github.com/DeFacto/WebCredibility](https://github.com/DeFacto/WebCredibility)
 
 *   Participated in the development and benchmarking of DeFacto, a triple verification framework.
 
