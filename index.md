@@ -34,7 +34,7 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 * **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00509) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
-* Diego Esteves, **Aniketh Janardhan Reddy**, Piyush Chawla, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00494) [[Code]](https://github.com/DeFacto/WebCredibility}
+* Diego Esteves, **Aniketh Janardhan Reddy**, Piyush Chawla, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00494) [[Code]](https://github.com/DeFacto/WebCredibility)
 
 *	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. [[Paper]](https://doi.org/10.1145/3177873)
 
