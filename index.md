@@ -7,7 +7,7 @@ layout: default
 I am a master's student at Carnegie Mellon University's Machine Learning Department. Applications of machine learning in medicine, natural language processing, neuroscience and vision are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#education)Education
-*   2018 - 2019
+*   2018 - 2019    
 M.S. Machine Learning from Carnegie Mellon University
 
 *   2014 - 2018   
@@ -21,12 +21,13 @@ Sri Kumaran Children's Home - CBSE, Bangalore
 Primary and secondary education from    
 Sri Kumaran Public School - ICSE, Bangalore
 
-# [](#awards)Awards and Honours
+# [](#awards)Honours and Certifications
 
 *   Gold Medalist, BITS Pilani, Hyderabad
 *   Best All-Rounder Award, Prof. V.S. Rao Foundation, BITS Pilani, Hyderabad
 *   DAAD WISE 2017 Scholar
 *   Merit Scholarship from BITS Pilani for four consecutive years
+*   Completed the Technology Entrepreneurship Program (TEP) conducted by the Indian School of Business (ISB)
 *   TCS IT Wiz 2013 Bangalore Runner-Up
 *   IAYP Bronze Award
 
