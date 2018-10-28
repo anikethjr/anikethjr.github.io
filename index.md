@@ -33,9 +33,9 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#publications)Publications
 
-* **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00509) [[Code]](https://github.com/DeFacto/DeFactoNLP)
+* **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5522) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
-* Diego Esteves, **Aniketh Janardhan Reddy**, Piyush Chawla, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. FEVER 2018 at EMNLP 2018. [[Paper]](https://arxiv.org/abs/1809.00494) [[Code]](https://github.com/DeFacto/WebCredibility)
+* Diego Esteves, **Aniketh Janardhan Reddy**, Piyush Chawla, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5508) [[Code]](https://github.com/DeFacto/WebCredibility)
 
 
 * **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4 at LREC 2018. [[Paper]](http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html) [[Code]](https://github.com/anikethjr/NER_Telugu)
