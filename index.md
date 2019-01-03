@@ -44,7 +44,10 @@ Sri Kumaran Public School - ICSE, Bangalore
 
 # [](#projects)Projects
 
-*   Utilized functional magnetic resonance imaging (fMRI) and machine learning techniques to identify which brain regions are involved in attention modulation. I was guided by Dr. Sridharan Devarajan at the Cognition Lab, Indian Institute of Science, Bangalore, India.
+*   Working with Prof. Leila Wehbe on understanding the representation of language syntax in the human brain using functional
+magnetic resonance imaging (fMRI) and machine learning.
+
+*   Utilized fMRI and machine learning techniques to identify which brain regions are involved in attention modulation. I was guided by Dr. Sridharan Devarajan at the Cognition Lab, Indian Institute of Science, Bangalore, India.
 
 *   Developed an automated fact verification system called DeFactoNLP which could not only assess the veracity of a claim but also retrieve supporting evidences from Wikipedia - [https://github.com/DeFacto/DeFactoNLP](https://github.com/DeFacto/DeFactoNLP)
 
