@@ -69,7 +69,7 @@ magnetic resonance imaging (fMRI) and machine learning.
 
 *   An interactive application to draw Bezier Curves and generate surfaces of revolution can be found at [https://github.com/anikethjr/BezierCurves](https://github.com/anikethjr/BezierCurves). It was implemented in C++ and uses OpenGL.
 
-*   Recently, I built a framework which implements L-Systems using OpenGL. The code can be found at [https://github.com/anikethjr/LSystems](https://github.com/anikethjr/LSystems).
+*   I built a framework which implements L-Systems using OpenGL. The code can be found at [https://github.com/anikethjr/LSystems](https://github.com/anikethjr/LSystems).
 
 *   To experiment with 3D modelling using OpenGL and Blender, I built a children's playground using them. The code for this project is at [https://github.com/anikethjr/Playground-OpenGL](https://github.com/anikethjr/Playground-OpenGL).
 
