@@ -8,6 +8,8 @@ I am a software engineer at Microsoft. Applications of machine learning in medic
 
 # [](#publications)Publications
 
+* **Aniketh Janardhan Reddy** and Leila Wehbe. 2020. Syntactic representations in the human brain: beyond effort-based metrics. _In review._ [[Preprint]](https://www.biorxiv.org/content/10.1101/2020.06.16.155499v1)
+
 * **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5522) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
 * Diego Esteves, **Aniketh Janardhan Reddy**, Piyush Chawla, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5508) [[Code]](https://github.com/DeFacto/WebCredibility)
