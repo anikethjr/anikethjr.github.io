@@ -8,7 +8,7 @@ layout: default
 
 # [](#publications)Publications
 
-* **Aniketh Janardhan Reddy** and Leila Wehbe. 2020. Syntactic representations in the human brain: beyond effort-based metrics. _In review._ [[Preprint]](https://www.biorxiv.org/content/10.1101/2020.06.16.155499v1)
+* **Aniketh Janardhan Reddy** and Leila Wehbe. 2020. Syntactic representations in the human brain: beyond effort-based metrics. _In review._ [[Preprint]](https://doi.org/10.1101/2020.06.16.155499)
 
 * **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5522) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
