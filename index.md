@@ -4,11 +4,11 @@ layout: default
 
 <img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;margin:25px 25px"/>
 
-## I am a Computer Science PhD student at the University of California, Berkeley. Applications of machine learning in neuroscience and natural language processing are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
+## I am a Computer Science PhD student at the University of California, Berkeley. Applications of machine learning in computational genomics, neuroscience and natural language processing are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
 
 # [](#publications)Publications
 
-* **Aniketh Janardhan Reddy** and Leila Wehbe. 2020. Syntactic representations in the human brain: beyond effort-based metrics. _In review._ [[Preprint]](https://doi.org/10.1101/2020.06.16.155499) [[Code]](https://github.com/anikethjr/brain_syntactic_representations)
+* **Aniketh Janardhan Reddy** and Leila Wehbe. 2021. Can fMRI reveal the representation of syntactic structure in the brain?. Neural Information Processing Systems (NeurIPS) 2021. [[Preprint]](https://doi.org/10.1101/2020.06.16.155499) [[Code]](https://github.com/anikethjr/brain_syntactic_representations)
 
 * **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5522) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
@@ -20,6 +20,8 @@ layout: default
 *	Diego Esteves, Anisa Rula, **Aniketh Janardhan Reddy**, and Jens Lehmann. 2018. Toward Veracity Assessment in RDF Knowledge Bases: An Exploratory Analysis. J. Data and Information Quality 9, 3, Article 16 (February 2018), 26 pages. [[Paper]](https://doi.org/10.1145/3177873)
 
 # [](#projects)Projects
+
+*   I am advised by Prof. Nilah Ioannidis and we are currently working on building better gene expression prediction models that can leverage the 3D structure of the genome.
 
 *   Working with Prof. Leila Wehbe on understanding the representation of language syntax in the human brain using functional
 magnetic resonance imaging (fMRI) and machine learning.
