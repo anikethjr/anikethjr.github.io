@@ -4,7 +4,7 @@ layout: default
 
 <img src="Photo.jpeg" align="right" alt="Photo" style="width: 345px;margin:25px 25px"/>
 
-## I am a Computer Science PhD student at the University of California, Berkeley. Applications of machine learning in computational genomics, neuroscience and natural language processing are of particular interest to me. In my spare time, I engage in quizzing, photography, gaming, playing badminton and running.
+## I am a Computer Science PhD student at the University of California, Berkeley. Applications of machine learning in computational genomics, neuroscience and natural language processing are of particular interest to me.
 
 # [](#publications)Publications
 
