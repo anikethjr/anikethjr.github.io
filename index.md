@@ -8,7 +8,7 @@ layout: default
 
 # [](#publications)Publications
 
-* **Aniketh Janardhan Reddy** and Leila Wehbe. 2021. Can fMRI reveal the representation of syntactic structure in the brain? Neural Information Processing Systems (NeurIPS) 2021. [[Preprint]](https://doi.org/10.1101/2020.06.16.155499) [[Code]](https://github.com/anikethjr/brain_syntactic_representations)
+* **Aniketh Janardhan Reddy** and Leila Wehbe. 2021. Can fMRI reveal the representation of syntactic structure in the brain? Neural Information Processing Systems (NeurIPS) 2021. [[Paper]](https://papers.nips.cc/paper/2021/file/51a472c08e21aef54ed749806e3e6490-Paper.pdf) [[Code]](https://github.com/anikethjr/brain_syntactic_representations)
 
 * **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5522) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
