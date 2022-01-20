@@ -21,9 +21,9 @@ layout: default
 
 # [](#projects)Projects
 
-*   I am advised by Prof. Nilah Ioannidis and we are currently working on building gene expression prediction models that can leverage the 3D structure of the genome.
+*   I am advised by Prof. Nilah Ioannidis and we are currently working on building better gene expression prediction models and on optimizing sequences to obtain beneficial gene expression profiles.
 
-*   Working with Prof. Leila Wehbe on understanding the representation of language syntax in the human brain using functional
+*   Worked with Prof. Leila Wehbe on understanding the representation of language syntax in the human brain using functional
 magnetic resonance imaging (fMRI) and machine learning.
 
 *   Utilized fMRI and machine learning techniques to identify which brain regions are involved in attention modulation. I was guided by Dr. Sridharan Devarajan at the Cognition Lab, Indian Institute of Science, Bangalore, India.
