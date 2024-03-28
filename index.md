@@ -8,7 +8,7 @@ layout: default
 
 # [](#publications)Publications
 
-* Lucas Ferreira DaSilva, Simon Senan, Zain Munir Patel, **Aniketh Janardhan Reddy**, Sameer Gabbita, Zach Nussbaum, Cesar Miguel Valdez Cordova et al. "DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements." bioRxiv (2024): 2024-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.01.578352)
+* Lucas Ferreira DaSilva, Simon Senan, Zain Munir Patel, **Aniketh Janardhan Reddy**, Sameer Gabbita, Zach Nussbaum, César Miguel Valdez Córdova, Aaron Wenteler, Noah Weber, Tin M. Tunjic, Talha Ahmad Khan, Zelun Li, Cameron Smith, Matei Bejan, Lithin Karmel Louis, Paola Cornejo, Will Connell, Emily S. Wong, Wouter Meuleman, Luca Pinello "DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements." bioRxiv (2024): 2024-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.01.578352)
 
 * **Aniketh Janardhan Reddy***, Michael H. Herschl*, Sathvik Kolli, Amy X. Lu, Xinyang Geng, Aviral Kumar, Patrick D. Hsu, Sergey Levine, and Nilah M. Ioannidis. "Pretraining strategies for effective promoter-driven gene expression prediction." bioRxiv (2023): 2023-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.02.24.529941) [[Code]](https://github.com/anikethjr/promoter_models)
 
