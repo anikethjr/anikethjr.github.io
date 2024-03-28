@@ -10,13 +10,13 @@ layout: default
 
 * Lucas Ferreira DaSilva, Simon Senan, Zain Munir Patel, **Aniketh Janardhan Reddy**, Sameer Gabbita, Zach Nussbaum, César Miguel Valdez Córdova, Aaron Wenteler, Noah Weber, Tin M. Tunjic, Talha Ahmad Khan, Zelun Li, Cameron Smith, Matei Bejan, Lithin Karmel Louis, Paola Cornejo, Will Connell, Emily S. Wong, Wouter Meuleman, Luca Pinello "DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements." bioRxiv (2024): 2024-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.01.578352)
 
-* **Aniketh Janardhan Reddy***, Michael H. Herschl*, Sathvik Kolli, Amy X. Lu, Xinyang Geng, Aviral Kumar, Patrick D. Hsu, Sergey Levine, and Nilah M. Ioannidis. "Pretraining strategies for effective promoter-driven gene expression prediction." bioRxiv (2023): 2023-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.02.24.529941) [[Code]](https://github.com/anikethjr/promoter_models)
+* **Aniketh Janardhan Reddy**\*, Michael H. Herschl\*, Sathvik Kolli, Amy X. Lu, Xinyang Geng, Aviral Kumar, Patrick D. Hsu, Sergey Levine, and Nilah M. Ioannidis. "Pretraining strategies for effective promoter-driven gene expression prediction." bioRxiv (2023): 2023-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.02.24.529941) [[Code]](https://github.com/anikethjr/promoter_models)
 
 * **Aniketh Janardhan Reddy** and Leila Wehbe. 2021. Can fMRI reveal the representation of syntactic structure in the brain? Advances in Neural Information Processing Systems 34 (NeurIPS 2021). [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/51a472c08e21aef54ed749806e3e6490-Abstract.html) [[Code]](https://github.com/anikethjr/brain_syntactic_representations)
 
 * **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. 2018. DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5522) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
-* Diego Esteves, **Aniketh Janardhan Reddy***, Piyush Chawla*, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5508) [[Code]](https://github.com/DeFacto/WebCredibility)
+* Diego Esteves, **Aniketh Janardhan Reddy**\*, Piyush Chawla\*, and Jens Lehmann. 2018. Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER). [[Paper]](http://aclweb.org/anthology/W18-5508) [[Code]](https://github.com/DeFacto/WebCredibility)
 
 
 * **Aniketh Janardhan Reddy**, Monica Adusumilli, Sai Kiranmai Gorla, Lalita Bhanu Murthy Neti and Aruna Malapati. 2018. Named Entity Recognition for Telugu using LSTM-CRF. WILDRE4 at LREC 2018. [[Paper]](http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html) [[Code]](https://github.com/anikethjr/NER_Telugu)
