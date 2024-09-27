@@ -8,9 +8,11 @@ layout: default
 
 # [](#publications)Publications
 
+* Ruchir Rastogi^, **Aniketh Janardhan Reddy**^, Ryan Chung, and Nilah M. Ioannidis. "Fine-tuning sequence-to-expression models on personal genome and transcriptome data". bioRxiv (2024): 2024-09. _In review._ [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.09.23.614632) [[Code]](https://github.com/ni-lab/finetuning-enformer)
+
 * **Aniketh Janardhan Reddy**^, Xinyang Geng^, Michael H. Herschl^, Sathvik Kolli, Aviral Kumar, Patrick D. Hsu, Sergey Levine, and Nilah M. Ioannidis. "Designing Cell-Type-Specific Promoter Sequences Using Conservative Model-Based Optimization." Advances in Neural Information Processing Systems 38 (NeurIPS 2024). _Accepted_. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.06.23.600232)
 
-* Lucas Ferreira DaSilva, Simon Senan, Zain Munir Patel, **Aniketh Janardhan Reddy**, Sameer Gabbita, Zach Nussbaum, César Miguel Valdez Córdova, Aaron Wenteler, Noah Weber, Tin M. Tunjic, Talha Ahmad Khan, Zelun Li, Cameron Smith, Matei Bejan, Lithin Karmel Louis, Paola Cornejo, Will Connell, Emily S. Wong, Wouter Meuleman, Luca Pinello. "DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements." bioRxiv (2024): 2024-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.01.578352)
+* Lucas Ferreira DaSilva, Simon Senan, Zain Munir Patel, **Aniketh Janardhan Reddy**, Sameer Gabbita, Zach Nussbaum, César Miguel Valdez Córdova, Aaron Wenteler, Noah Weber, Tin M. Tunjic, Talha Ahmad Khan, Zelun Li, Cameron Smith, Matei Bejan, Lithin Karmel Louis, Paola Cornejo, Will Connell, Emily S. Wong, Wouter Meuleman, Luca Pinello. "DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements." bioRxiv (2024): 2024-02. _In review._ [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.01.578352)
 
 * **Aniketh Janardhan Reddy**^, Michael H. Herschl^, Sathvik Kolli, Amy X. Lu, Xinyang Geng, Aviral Kumar, Patrick D. Hsu, Sergey Levine, and Nilah M. Ioannidis. "Pretraining strategies for effective promoter-driven gene expression prediction." bioRxiv (2023): 2023-02. [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.02.24.529941) [[Code]](https://github.com/anikethjr/promoter_models)
 
