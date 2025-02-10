@@ -18,7 +18,7 @@ layout: default
 
 * Lucas Ferreira DaSilva, Simon Senan, Zain Munir Patel, **Aniketh Janardhan Reddy**, Sameer Gabbita, Zach Nussbaum, César Miguel Valdez Córdova, Aaron Wenteler, Noah Weber, Tin M. Tunjic, Talha Ahmad Khan, Zelun Li, Cameron Smith, Matei Bejan, Lithin Karmel Louis, Paola Cornejo, Will Connell, Emily S. Wong, Wouter Meuleman, Luca Pinello. "DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements." bioRxiv (2024): 2024-02. _In review._ [[Preprint]](https://www.biorxiv.org/content/10.1101/2024.02.01.578352)
 
-* **Aniketh Janardhan Reddy** and Leila Wehbe. 2021. "Can fMRI reveal the representation of syntactic structure in the brain?" Advances in Neural Information Processing Systems 35 (NeurIPS 2021). [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/51a472c08e21aef54ed749806e3e6490-Abstract.html) [[Code]](https://github.com/anikethjr/brain_syntactic_representations)
+* **Aniketh Janardhan Reddy** and Leila Wehbe. "Can fMRI reveal the representation of syntactic structure in the brain?" Advances in Neural Information Processing Systems 35 (NeurIPS 2021). [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/51a472c08e21aef54ed749806e3e6490-Abstract.html) [[Code]](https://github.com/anikethjr/brain_syntactic_representations)
 
 * **Aniketh Janardhan Reddy**, Gil Rocha, and Diego Esteves. "DeFactoNLP: Fact Verification using Entity Recognition, TFIDF Vector Comparison and Decomposable Attention." Proceedings of the First Workshop on Fact Extraction and VERification (FEVER 2018). [[Paper]](http://aclweb.org/anthology/W18-5522) [[Code]](https://github.com/DeFacto/DeFactoNLP)
 
